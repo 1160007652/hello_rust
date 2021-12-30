@@ -19,6 +19,17 @@ fn main(){
     let v = vec![1;5];
     println!("vec![1;5] 动态可变长数组 = {:?}", v);
 
+    let mut v = vec![];
+
+    v.push(1);
+    v.push(2);
+    v.push(3);
+    v.push(4);
+    v.push(5);
+    println!("数组元素 = {:?}", v);
+    println!("数组大小 = {:?}", v.len());
+    println!("删除数组元素 - 5 = {:?}", v.pop());
+
   
   }
   
