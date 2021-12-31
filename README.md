@@ -27,12 +27,16 @@ integer 、 float 、 bool 、 array 、 char  、 enum 、 struct 、 tup  、 
 
  - 条件判断 
 
- if  、 if else  、 if else if else
+    `if  、 if else  、 if else if else`
 
  - 循环
 
- loop   、  while   、  for
+    `loop   、  while   、  for`
 
  - match 模式匹配 
 
- 类似其它编程语言中的 switch case
+    `类似其它编程语言中的 switch case`
+
+ - 简化 match 模式匹配
+
+    ` if let 、 while let`
