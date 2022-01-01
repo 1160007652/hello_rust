@@ -44,3 +44,21 @@ integer 、 float 、 bool 、 array 、 char  、 enum 、 struct 、 tup  、 
 #### hello_fn （函数范式）
 
  fn 普通函数、 impl 方法｜关联函数、高阶函数（函数做 => 返回值、参数）、闭包
+
+#### hello_iterator (迭代器)
+
+ - [].iter()  数组转迭代器
+
+ - iter.collect() 迭代器转数组
+
+ - any 查找是否存在某个数据，
+
+ - filter 过滤迭代器
+
+ - sum 求和
+
+ - zip 压缩迭代器
+
+ - map 映射新的迭代器
+
+ - take 生成一个新的指定可迭代数量的迭代器
