@@ -40,3 +40,7 @@ integer 、 float 、 bool 、 array 、 char  、 enum 、 struct 、 tup  、 
  - 简化 match 模式匹配
 
     ` if let 、 while let`
+
+#### hello_fn （函数范式）
+
+ fn 普通函数、 impl 方法｜关联函数、高阶函数（函数做 => 返回值、参数）、闭包
